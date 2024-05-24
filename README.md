@@ -3,7 +3,7 @@ Project Overview:
 
 Key Features:
 
--Task Management: Full CRUD operations allowing users to create, view, edit, and delete tasks.
+=>Task Management: Full CRUD operations allowing users to create, view, edit, and delete tasks.
 -Edit and Delete: Users can easily update existing tasks or remove them as needed.
 -RESTful API: Constructed a RESTful API for effective communication between the frontend and backend.
 -Database Integration: Integrated MongoDB with Mongoose for scalable and efficient data management.
